@@ -2,19 +2,20 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Photo Portfolio</title>
-    <link>/</link>
+    <link>https://jonasalthaus.github.io/gallery/</link>
     <description>Recent content on My Photo Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Jonas Althaus</copyright>
+    <lastBuildDate>Thu, 25 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jonasalthaus.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Featured Album</title>
-      <link>/featured-album/</link>
+      <link>https://jonasalthaus.github.io/gallery/featured-album/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/featured-album/</guid>
-        <media:content url="/featured-album/01-img-0391_hu_adf78fe076dc146c.jpg" type="image/jpeg"/>
+      <guid>https://jonasalthaus.github.io/gallery/featured-album/</guid>
+        <media:content url="https://jonasalthaus.github.io/gallery/featured-album/01-img-0391_hu_adf78fe076dc146c.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;/featured-album/01-img-0391_hu_adf78fe076dc146c.jpg&quot; /&gt;
+          &lt;img src=&quot;https://jonasalthaus.github.io/gallery/featured-album/01-img-0391_hu_adf78fe076dc146c.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
   </channel>

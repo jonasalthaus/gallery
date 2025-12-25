@@ -3,6 +3,7 @@ baseURL = "https://jonasalthaus.github.io/gallery/"
 title = "My Photo Portfolio"
 languageCode = "en-us"
 theme = "hugo-theme-gallery"
+publishDir = "docs"
 
 [params]
   [params.socialIcons]

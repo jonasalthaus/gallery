@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Photo Portfolio</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on My Photo Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Featured Album</title>
+      <link>//localhost:1313/featured-album/</link>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/featured-album/</guid>
+        <media:content url="//localhost:1313/featured-album/35-cover_hu_b15dfec5e3777e37.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/featured-album/35-cover_hu_b15dfec5e3777e37.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

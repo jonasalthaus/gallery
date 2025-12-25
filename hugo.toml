@@ -1,0 +1,15 @@
+copyright = "© Jonas Althaus"
+baseURL = "https://jonasalthaus.github.io/gallery/"
+title = "Portfolio"
+languageCode = "en-us"
+theme = "hugo-theme-gallery"
+
+[params]
+  [params.socialIcons]
+    instagram = "https://www.instagram.com/jonas.althaus"
+
+[menu]
+  [[menu.footer]]
+    name = "Linktree"
+    url = "https://linktr.ee/jere.fm"
+    weight = 3

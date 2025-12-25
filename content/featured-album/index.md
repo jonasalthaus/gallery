@@ -4,6 +4,6 @@ description: ''
 resources:
 - params:
     cover: true
-  src: 35-cover.jpg
+  src: 01-img-0391.jpg
 title: Featured Album
 ---

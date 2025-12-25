@@ -1,6 +1,6 @@
 copyright = "© Jonas Althaus"
 baseURL = "https://jonasalthaus.github.io/gallery/"
-title = "My Photo Portfolio"
+title = ""
 languageCode = "en-us"
 theme = "hugo-theme-gallery"
 publishDir = "docs"

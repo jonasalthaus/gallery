@@ -4,6 +4,6 @@ description: ''
 resources:
 - params:
     cover: true
-  src: 01-img-0148.jpg
-title: Home
+  src: 87-cover.jpg
+title: home
 ---

@@ -1,4 +1,4 @@
 ---
-title: "Hello"
-description: "A glimpse into the view of my Fujifilm XT-50."
+title: "hello."
+description: "breathe.. and enjoy a glimpse through my lens."
 ---

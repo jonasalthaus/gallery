@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello on </title>
+    <title>hello. on </title>
     <link>https://jonasalthaus.github.io/gallery/</link>
-    <description>Recent content in Hello on </description>
+    <description>Recent content in hello. on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Jonas Althaus</copyright>
     <lastBuildDate>Thu, 25 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jonasalthaus.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Home</title>
+      <title>home</title>
       <link>https://jonasalthaus.github.io/gallery/home/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://jonasalthaus.github.io/gallery/home/</guid>
-        <media:content url="https://jonasalthaus.github.io/gallery/home/01-img-0148_hu_f7267041d48e856d.jpg" type="image/jpeg"/>
+        <media:content url="https://jonasalthaus.github.io/gallery/home/87-cover_hu_3029644ebf6bb0fc.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://jonasalthaus.github.io/gallery/home/01-img-0148_hu_f7267041d48e856d.jpg&quot; /&gt;
+          &lt;img src=&quot;https://jonasalthaus.github.io/gallery/home/87-cover_hu_3029644ebf6bb0fc.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
-      <title>Madeira</title>
-      <link>https://jonasalthaus.github.io/gallery/madeira/</link>
+      <title>madeira lovers</title>
+      <link>https://jonasalthaus.github.io/gallery/madeira-lovers/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://jonasalthaus.github.io/gallery/madeira/</guid>
-        <media:content url="https://jonasalthaus.github.io/gallery/madeira/01-img-0350_hu_5018fa6200effe34.jpg" type="image/jpeg"/>
+      <guid>https://jonasalthaus.github.io/gallery/madeira-lovers/</guid>
+        <media:content url="https://jonasalthaus.github.io/gallery/madeira-lovers/27-cover_hu_699dedf791075af2.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://jonasalthaus.github.io/gallery/madeira/01-img-0350_hu_5018fa6200effe34.jpg&quot; /&gt;
-          &lt;p&gt;&lt;/p&gt;
+          &lt;img src=&quot;https://jonasalthaus.github.io/gallery/madeira-lovers/27-cover_hu_699dedf791075af2.jpg&quot; /&gt;
+          &lt;p&gt;dreamy memories from madeira&lt;/p&gt;
         </description></item>
     <item>
-      <title>Travel</title>
-      <link>https://jonasalthaus.github.io/gallery/travel/</link>
+      <title>pizza</title>
+      <link>https://jonasalthaus.github.io/gallery/pizza/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://jonasalthaus.github.io/gallery/travel/</guid>
-        <media:content url="https://jonasalthaus.github.io/gallery/travel/01-img-0470_hu_1b01d2f2bd848120.jpg" type="image/jpeg"/>
+      <guid>https://jonasalthaus.github.io/gallery/pizza/</guid>
+        <media:content url="https://jonasalthaus.github.io/gallery/pizza/03-cover_hu_dde92d705cabe20a.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://jonasalthaus.github.io/gallery/travel/01-img-0470_hu_1b01d2f2bd848120.jpg&quot; /&gt;
+          &lt;img src=&quot;https://jonasalthaus.github.io/gallery/pizza/03-cover_hu_dde92d705cabe20a.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
   </channel>

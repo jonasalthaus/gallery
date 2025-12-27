@@ -4,6 +4,7 @@ description: ''
 resources:
 - params:
     cover: true
-  src: 03-cover.jpg
-title: pizza
+  src: 006-img-0560.jpg
+title: pizza.
+weight: 4
 ---

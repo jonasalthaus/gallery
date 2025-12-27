@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jonasalthaus.github.io/gallery/</loc>
-    <lastmod>2025-12-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jonasalthaus.github.io/gallery/home/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -13,6 +10,12 @@
   </url><url>
     <loc>https://jonasalthaus.github.io/gallery/pizza/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jonasalthaus.github.io/gallery/chrome/</loc>
+    <lastmod>2025-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jonasalthaus.github.io/gallery/</loc>
+    <lastmod>2025-12-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jonasalthaus.github.io/gallery/categories/</loc>
   </url><url>

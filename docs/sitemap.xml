@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/home/</loc>
+    <loc>https://jonasalthaus.github.io/gallery/home/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/madeira-lovers/</loc>
+    <loc>https://jonasalthaus.github.io/gallery/madeira-lovers/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pizza/</loc>
+    <loc>https://jonasalthaus.github.io/gallery/pizza/</loc>
     <lastmod>2025-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chrome/</loc>
+    <loc>https://jonasalthaus.github.io/gallery/chrome/</loc>
     <lastmod>2025-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://jonasalthaus.github.io/gallery/</loc>
     <lastmod>2025-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://jonasalthaus.github.io/gallery/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://jonasalthaus.github.io/gallery/tags/</loc>
   </url>
 </urlset>

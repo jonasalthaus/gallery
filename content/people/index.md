@@ -4,7 +4,7 @@ description: ''
 resources:
 - params:
     cover: true
-  src: 010-img-4988.jpg
-title: abstract.
+  src: 019-dscf6512.jpg
+title: people.
 weight: 6
 ---

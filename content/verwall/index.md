@@ -1,6 +1,6 @@
 ---
 date: '2026-07-12'
-description: ''
+description: mit vielen knödel im bauch
 resources:
 - params:
     cover: true
@@ -8,3 +8,5 @@ resources:
 title: verwall.
 weight: 7
 ---
+
+mit vielen knödel im bauch

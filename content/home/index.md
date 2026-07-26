@@ -4,7 +4,7 @@ description: ''
 resources:
 - params:
     cover: true
-  src: 085-img-1747.jpg
+  src: 014-dscf6922.jpg
 title: home.
 weight: 2
 ---

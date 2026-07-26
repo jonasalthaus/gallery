@@ -1,6 +1,6 @@
 ---
 date: '2026-03-30'
-description: home of lemons
+description: the home of lemons
 resources:
 - params:
     cover: true
@@ -9,4 +9,4 @@ title: menton.
 weight: 4
 ---
 
-home of lemons
+the home of lemons

@@ -4,7 +4,7 @@ description: ''
 resources:
 - params:
     cover: true
-  src: 028-dscf7048.jpg
+  src: 019-dscf6512.jpg
 title: street photography.
 weight: 6
 ---

@@ -6,5 +6,5 @@ resources:
     cover: true
   src: 006-img-0560.jpg
 title: sestri levante.
-weight: 5
+weight: 6
 ---

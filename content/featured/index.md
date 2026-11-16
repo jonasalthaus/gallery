@@ -7,7 +7,7 @@ params:
 resources:
 - params:
     cover: true
-  src: 022-img-0568-2.jpg
+  src: 044-dscf8396.jpg
 title: featured.
 weight: 1
 ---

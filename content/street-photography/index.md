@@ -6,5 +6,5 @@ resources:
     cover: true
   src: 019-dscf6512.jpg
 title: street photography.
-weight: 7
+weight: 8
 ---

@@ -6,7 +6,7 @@ resources:
     cover: true
   src: 025-cover.jpg
 title: madeira lovers.
-weight: 5
+weight: 6
 ---
 
 dreamy memories from madeira

@@ -6,7 +6,7 @@ resources:
     cover: true
   src: 018-dscf6792.jpg
 title: verwall.
-weight: 8
+weight: 9
 ---
 
 mit vielen knödel im bauch

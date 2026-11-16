@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Jonas Althaus</copyright>
-    <lastBuildDate>Sun, 18 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://jonasalthaus.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://jonasalthaus.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>home.</title>
       <link>https://jonasalthaus.github.io/gallery/home/</link>
@@ -27,6 +27,16 @@
         <description>
           &lt;img src=&quot;https://jonasalthaus.github.io/gallery/engadina/028-dscf7411_hu_69b3753a0d6faa85.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>japan.</title>
+      <link>https://jonasalthaus.github.io/gallery/japan/</link>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://jonasalthaus.github.io/gallery/japan/</guid>
+        <media:content url="https://jonasalthaus.github.io/gallery/japan/100-dscf9960_hu_744718812c3b093.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://jonasalthaus.github.io/gallery/japan/100-dscf9960_hu_744718812c3b093.jpg&quot; /&gt;
+          &lt;p&gt;arigatou gozaimaaas.&lt;/p&gt;
         </description></item>
     <item>
       <title>menton.</title>

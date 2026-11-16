@@ -6,5 +6,5 @@ resources:
     cover: true
   src: 014-dscf6922.jpg
 title: home.
-weight: 2
+weight: 3
 ---

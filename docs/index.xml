@@ -9,6 +9,16 @@
     <copyright>© Jonas Althaus</copyright>
     <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://jonasalthaus.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>japan.</title>
+      <link>https://jonasalthaus.github.io/gallery/japan/</link>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://jonasalthaus.github.io/gallery/japan/</guid>
+        <media:content url="https://jonasalthaus.github.io/gallery/japan/100-dscf9960_hu_744718812c3b093.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://jonasalthaus.github.io/gallery/japan/100-dscf9960_hu_744718812c3b093.jpg&quot; /&gt;
+          &lt;p&gt;arigatou gozaimasu.&lt;/p&gt;
+        </description></item>
+    <item>
       <title>home.</title>
       <link>https://jonasalthaus.github.io/gallery/home/</link>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
@@ -27,16 +37,6 @@
         <description>
           &lt;img src=&quot;https://jonasalthaus.github.io/gallery/engadina/028-dscf7411_hu_69b3753a0d6faa85.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>japan.</title>
-      <link>https://jonasalthaus.github.io/gallery/japan/</link>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>https://jonasalthaus.github.io/gallery/japan/</guid>
-        <media:content url="https://jonasalthaus.github.io/gallery/japan/100-dscf9960_hu_744718812c3b093.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://jonasalthaus.github.io/gallery/japan/100-dscf9960_hu_744718812c3b093.jpg&quot; /&gt;
-          &lt;p&gt;arigatou gozaimaaas.&lt;/p&gt;
         </description></item>
     <item>
       <title>menton.</title>
@@ -69,16 +69,6 @@
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
-      <title>street photography.</title>
-      <link>https://jonasalthaus.github.io/gallery/street-photography/</link>
-      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://jonasalthaus.github.io/gallery/street-photography/</guid>
-        <media:content url="https://jonasalthaus.github.io/gallery/street-photography/019-dscf6512_hu_aa59bb4fd155d058.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://jonasalthaus.github.io/gallery/street-photography/019-dscf6512_hu_aa59bb4fd155d058.jpg&quot; /&gt;
-          &lt;p&gt;&lt;/p&gt;
-        </description></item>
-    <item>
       <title>verwall.</title>
       <link>https://jonasalthaus.github.io/gallery/verwall/</link>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
@@ -87,6 +77,26 @@
         <description>
           &lt;img src=&quot;https://jonasalthaus.github.io/gallery/verwall/018-dscf6792_hu_8315573ebcd8f0e9.jpg&quot; /&gt;
           &lt;p&gt;mit vielen knödel im bauch&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>street photography.</title>
+      <link>https://jonasalthaus.github.io/gallery/street-photography/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://jonasalthaus.github.io/gallery/street-photography/</guid>
+        <media:content url="https://jonasalthaus.github.io/gallery/street-photography/008-dscf6512_hu_aa59bb4fd155d058.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://jonasalthaus.github.io/gallery/street-photography/008-dscf6512_hu_aa59bb4fd155d058.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>portraits.</title>
+      <link>https://jonasalthaus.github.io/gallery/portraits/</link>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://jonasalthaus.github.io/gallery/portraits/</guid>
+        <media:content url="https://jonasalthaus.github.io/gallery/portraits/017-img-1007_hu_aefff997f103935.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://jonasalthaus.github.io/gallery/portraits/017-img-1007_hu_aefff997f103935.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
         </description></item>
   </channel>
 </rss>
